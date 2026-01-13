@@ -23,5 +23,5 @@ designed to manage employees, events, check-in processes, and historical audit d
 The Postman collection is available in the `/postman` folder.
 
 ## 👤 Author
-- Name: Your Name
-- Role: Backend / Full-Stack Developer
+- Name: Yothin Sisaitham
+- Role: Full-Stack Developer
